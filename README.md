@@ -16,6 +16,6 @@
 
 # Contact
 
-- [Here](https://vu4ll.ml) you can find all the platforms where you can reach me.
+- [Here](https://vu4ll.xyz/) you can find all the platforms where you can reach me.
 
 ![card](https://discord.c99.nl/widget/theme-3/269480080823025664.png)
