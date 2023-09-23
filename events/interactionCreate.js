@@ -11,7 +11,7 @@ module.exports = {
         text: `${interaction.user.tag}`,
         iconURL: interaction.user.avatarURL({ dynamic: true }),
       })
-      .setColor("BLACK")
+      .setColor("#000000")
       .setTimestamp();
 
     if (interaction.type === InteractionType.ApplicationCommand)
