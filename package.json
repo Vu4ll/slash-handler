@@ -1,6 +1,7 @@
 {
   "name": "slash-handler",
   "description": "A slash command handler for Discord.js v14",
+  "author": "Vu4ll",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -8,7 +9,7 @@
   "dependencies": {
     "@discordjs/rest": "^1.0.0",
     "discord-api-types": "^0.36.2",
-    "discord.js": "^14.0.2"
+    "discord.js": "^14.17.3"
   },
   "engines": {
     "node": "18.x"
