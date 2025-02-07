@@ -5,8 +5,8 @@
 
 # Getting Started
 
-- This project requires Node.js 16.9 or higher to use.
-- Put your token in the `TOKEN` section of the .env file. Example `TOKEN=YOUR_TOKEN_HERE`
+- This project requires Node.js 18.x to use.
+- Put your token in the `TOKEN` section of the `config.js` file. Example `TOKEN: "YOUR_TOKEN_HERE"`
 
 ### Execute the commands below.
 - `git clone https://github.com/Vu4ll/slash-handler`
