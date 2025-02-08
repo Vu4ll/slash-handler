@@ -1,8 +1,12 @@
 const client = global.client;
-const { EmbedBuilder, InteractionType } = require("discord.js");
+const { EmbedBuilder, InteractionType, ChatInputCommandInteraction } = require("discord.js");
 
 module.exports = {
   event: "interactionCreate",
+
+  /**
+   * @param { ChatInputCommandInteraction } interaction 
+   */
   run: async (interaction) => {
     const command = client.commands.get(interaction.commandName);
 
