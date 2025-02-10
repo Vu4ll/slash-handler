@@ -18,4 +18,8 @@
 
 - [Here](https://vu4ll.com.tr/) you can find all the platforms where you can reach me.
 
+<div align="center">
+
 ![card](https://discord.c99.nl/widget/theme-3/269480080823025664.png)
+
+</div>
